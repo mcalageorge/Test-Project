@@ -2,11 +2,15 @@
 
 Controls:
 
-Escape: open shop + exit button.
-WASD: movement.
-Hold LMB pressed: attack.
-E: interact with object when prompt is visible on screen.
-Q: drop weapon.
+Escape: open shop + exit button
+
+WASD: movement
+
+Hold LMB pressed: attack
+
+E: interact with object when prompt is visible on screen
+
+Q: drop weapon
 
 
 Known bugs:
